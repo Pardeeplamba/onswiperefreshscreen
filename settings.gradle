@@ -1,0 +1,2 @@
+rootProject.name='Refresh On swipe'
+include ':app'
